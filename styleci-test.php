@@ -14,7 +14,7 @@ class BadlyStyled
         return $snake_var + $camelVar;
     }
 
-    public function baz()
+    public function baz2()
     {
         echo 'allononeline';
     }
